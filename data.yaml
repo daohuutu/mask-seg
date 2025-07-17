@@ -1,0 +1,6 @@
+path: D:\\VS code\\thigiacmaytinh\\BTL\\mask-seg\\dataset
+train: D:\\VS code\\thigiacmaytinh\\BTL\\mask-seg\\dataset\\images\\train
+val: D:\\VS code\\thigiacmaytinh\\BTL\\mask-seg\\dataset\\images\\val
+
+nc: 1
+names: ['tank']
